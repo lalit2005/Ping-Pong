@@ -3,7 +3,6 @@
 import turtle
 import time
 import pyglet
-import os
 
 # Asking to waitt for 3 seconds
 wait = turtle.Turtle()
